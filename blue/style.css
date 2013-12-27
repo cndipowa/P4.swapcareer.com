@@ -1,0 +1,81 @@
+/* tables */
+table.tablesorter {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 12pt;
+	width: 75%;
+	text-align: left;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 10px;
+}
+table.tablesorter thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter tbody td img{
+	padding-right:25px;
+}
+
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+img{padding-right:10px;}
+
+body {width: 75%;
+      margin: auto;
+      margin-right: auto;
+      background-color: #d0e4fe;
+      background-image: url(http://www.dream-wallpaper.com/free-wallpaper/art-wallpaper/colorful-background-episode-1-wallpaper/1920x1200/free-wallpaper-59.jpg);
+
+}
+li.menunav{display:inline;
+padding-right:20px;
+background-color: #FFF;
+text-align: left;
+font-size: 18pt;
+}
+div.footer{
+padding-top:200px;
+text-align: left;
+}
+#bio
+{
+border:2px solid;
+padding:10px 40px; 
+width:500px;
+height:100px;
+resize:both;
+overflow:auto;
+}
+#AppName{
+    
+text-align:center;
+
+font-size: 18pt;
+    
+    
+    
+}
+

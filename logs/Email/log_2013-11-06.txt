@@ -1,0 +1,385 @@
+2013-11-06 4:20:56 - INFO --> -------------------------- 
+2013-11-06 4:20:56 - INFO --> Controller/Method: posts/index 
+2013-11-06 4:20:57 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 4:20:57 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 4:20:57 - INFO --> CC:  
+2013-11-06 4:20:57 - INFO --> BCC:  
+2013-11-06 4:20:57 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 4:20:57 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+                posts.content,
+                posts.created,
+                posts.user_id AS post_user_id,
+                users_users.user_id AS follower_id,
+                users.firstname,
+                users.lastname,
+                users.imagepath
+        
+2013-11-06 4:21:02 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 4:21:06 - INFO --> -------------------------- 
+2013-11-06 4:21:06 - INFO --> Controller/Method: posts/index 
+2013-11-06 4:21:06 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 4:21:06 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 4:21:06 - INFO --> CC:  
+2013-11-06 4:21:06 - INFO --> BCC:  
+2013-11-06 4:21:06 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 4:21:06 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+                posts.content,
+                posts.created,
+                posts.user_id AS post_user_id,
+                users_users.user_id AS follower_id,
+                users.firstname,
+                users.lastname,
+                users.imagepath
+        
+2013-11-06 4:21:11 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 4:21:28 - INFO --> -------------------------- 
+2013-11-06 4:21:28 - INFO --> Controller/Method: posts/index 
+2013-11-06 4:21:28 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 4:21:28 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 4:21:28 - INFO --> CC:  
+2013-11-06 4:21:28 - INFO --> BCC:  
+2013-11-06 4:21:28 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 4:21:28 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+                posts.content,
+                posts.created,
+                posts.user_id AS post_user_id,
+                users_users.user_id AS follower_id,
+                users.firstname,
+                users.lastname,
+                users.imagepath
+        
+2013-11-06 4:21:33 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 4:21:40 - INFO --> -------------------------- 
+2013-11-06 4:21:40 - INFO --> Controller/Method: posts/index 
+2013-11-06 4:21:40 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 4:21:40 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 4:21:40 - INFO --> CC:  
+2013-11-06 4:21:40 - INFO --> BCC:  
+2013-11-06 4:21:40 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 4:21:40 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+                posts.content,
+                posts.created,
+                posts.user_id AS post_user_id,
+                users_users.user_id AS follower_id,
+                users.firstname,
+                users.lastname,
+                users.imagepath
+        
+2013-11-06 4:21:45 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 5:02:23 - INFO --> -------------------------- 
+2013-11-06 5:02:23 - INFO --> Controller/Method: posts/index 
+2013-11-06 5:02:23 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 5:02:23 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 5:02:23 - INFO --> CC:  
+2013-11-06 5:02:23 - INFO --> BCC:  
+2013-11-06 5:02:23 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 5:02:23 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+                posts.content,
+                posts.created,
+                posts.user_id AS post_user_id,
+                users_users.user_id AS follower_id,
+                users.firstname,
+                users.lastname,
+                users.imagepath
+        
+2013-11-06 5:02:28 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 5:16:34 - INFO --> -------------------------- 
+2013-11-06 5:16:34 - INFO --> Controller/Method: posts/index 
+2013-11-06 5:16:34 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 5:16:34 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 5:16:34 - INFO --> CC:  
+2013-11-06 5:16:34 - INFO --> BCC:  
+2013-11-06 5:16:34 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 5:16:34 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+                posts.content,
+                posts.created,
+                posts.user_id AS post_user_id,
+                users_users.user_id AS follower_id,
+                users.firstname,
+                users.lastname,
+                users.imagepath
+        
+2013-11-06 5:16:39 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 5:41:07 - INFO --> -------------------------- 
+2013-11-06 5:41:07 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 5:41:07 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 5:41:07 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 5:41:07 - INFO --> CC:  
+2013-11-06 5:41:07 - INFO --> BCC:  
+2013-11-06 5:41:07 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 5:41:07 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET firstname = 'che', lastname = 'ndipowa', email = 'che@ndipowa.com', password = '90b67c98c78e457db8850af8ff838a100451594d', created = '1383734467', token = 'c4a90145d04bd531828298e9d7647e46e83fbaae', imagepath = '/upload/che@ndipowa.comimage16.jpg' Duplicate e 
+2013-11-06 5:41:12 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 6:01:12 - INFO --> -------------------------- 
+2013-11-06 6:01:12 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 6:01:12 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 6:01:12 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 6:01:12 - INFO --> CC:  
+2013-11-06 6:01:12 - INFO --> BCC:  
+2013-11-06 6:01:12 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 6:01:12 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET firstname = 'che', lastname = 'ndipowa', email = 'che@ndipowa.com', password = '90b67c98c78e457db8850af8ff838a100451594d', created = '1383735671', token = 'c4a90145d04bd531828298e9d7647e46e83fbaae', imagepath = '/upload/che@ndipowa.comimage3.jpg' Duplicate en 
+2013-11-06 6:01:17 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 6:25:54 - INFO --> -------------------------- 
+2013-11-06 6:25:54 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 6:25:54 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 6:25:54 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 6:25:54 - INFO --> CC:  
+2013-11-06 6:25:54 - INFO --> BCC:  
+2013-11-06 6:25:54 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 6:25:54 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET firstname = 'che', lastname = 'ndipowa', email = 'che@ndipowa.com', password = '90b67c98c78e457db8850af8ff838a100451594d', created = '1383737154', token = 'c4a90145d04bd531828298e9d7647e46e83fbaae', imagepath = '/upload/che@ndipowa.comimage3.jpg' Duplicate en 
+2013-11-06 6:26:00 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 6:34:23 - INFO --> -------------------------- 
+2013-11-06 6:34:23 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 6:34:23 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 6:34:23 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 6:34:23 - INFO --> CC:  
+2013-11-06 6:34:23 - INFO --> BCC:  
+2013-11-06 6:34:23 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 6:34:23 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET firstname = 'che', lastname = 'ndipowa', email = 'che@ndipowa.com', password = '90b67c98c78e457db8850af8ff838a100451594d', created = '1383737663', token = 'c4a90145d04bd531828298e9d7647e46e83fbaae', imagepath = '/upload/che@ndipowa.comimage3.jpg' Duplicate en 
+2013-11-06 6:34:28 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 7:21:15 - INFO --> -------------------------- 
+2013-11-06 7:21:15 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 7:21:15 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 7:21:15 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 7:21:15 - INFO --> CC:  
+2013-11-06 7:21:15 - INFO --> BCC:  
+2013-11-06 7:21:15 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 7:21:15 - INFO --> Body: <h2>SQL Error</h2> SELECT user_id 
+             FROM users
+             WHERE email = che@ndipowa.com You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@ndipowa.com' at line 3<h2>Query History</h2>0 = SELECT user_ 
+2013-11-06 7:21:20 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 7:26:54 - INFO --> -------------------------- 
+2013-11-06 7:26:54 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 7:26:54 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 7:26:54 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 7:26:54 - INFO --> CC:  
+2013-11-06 7:26:54 - INFO --> BCC:  
+2013-11-06 7:26:54 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 7:26:54 - INFO --> Body: <h2>SQL Error</h2> SELECT user_id 
+             FROM users
+             WHERE email =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3<h2>Query History</h2>0 = SELECT user_id 
+             FROM user 
+2013-11-06 7:26:59 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 7:27:06 - INFO --> -------------------------- 
+2013-11-06 7:27:06 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 7:27:06 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 7:27:06 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 7:27:06 - INFO --> CC:  
+2013-11-06 7:27:06 - INFO --> BCC:  
+2013-11-06 7:27:06 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 7:27:06 - INFO --> Body: <h2>SQL Error</h2> SELECT user_id 
+             FROM users
+             WHERE email = che@ndipowa.com You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@ndipowa.com' at line 3<h2>Query History</h2>0 = SELECT user_ 
+2013-11-06 7:27:11 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 7:27:14 - INFO --> -------------------------- 
+2013-11-06 7:27:14 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 7:27:14 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 7:27:14 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 7:27:14 - INFO --> CC:  
+2013-11-06 7:27:14 - INFO --> BCC:  
+2013-11-06 7:27:14 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 7:27:14 - INFO --> Body: <h2>SQL Error</h2> SELECT user_id 
+             FROM users
+             WHERE email =  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3<h2>Query History</h2>0 = SELECT user_id 
+             FROM user 
+2013-11-06 7:27:19 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 7:28:19 - INFO --> -------------------------- 
+2013-11-06 7:28:19 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 7:28:19 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 7:28:19 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 7:28:19 - INFO --> CC:  
+2013-11-06 7:28:19 - INFO --> BCC:  
+2013-11-06 7:28:19 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 7:28:19 - INFO --> Body: <h2>SQL Error</h2> SELECT user_id 
+             FROM users
+             WHERE email = che Unknown column 'che' in 'where clause'<h2>Query History</h2>0 = SELECT user_id 
+             FROM users
+             WHERE email = che<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_STATUS] => 200
+    [HTTP_H 
+2013-11-06 7:28:24 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 7:31:56 - INFO --> -------------------------- 
+2013-11-06 7:31:56 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 7:31:56 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 7:31:56 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 7:31:56 - INFO --> CC:  
+2013-11-06 7:31:56 - INFO --> BCC:  
+2013-11-06 7:31:56 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 7:31:56 - INFO --> Body: <h2>SQL Error</h2> SELECT user_id 
+             FROM users
+             WHERE email = che Unknown column 'che' in 'where clause'<h2>Query History</h2>0 = SELECT user_id 
+             FROM users
+             WHERE email = che<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_STATUS] => 200
+    [HTTP_H 
+2013-11-06 7:32:01 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 7:35:35 - INFO --> -------------------------- 
+2013-11-06 7:35:35 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 7:35:35 - INFO --> From: Swap-Blog (ndipowa@yahoo.com) 
+2013-11-06 7:35:35 - INFO --> To: Swap-Blog (ndipowa@gmail.com),  
+2013-11-06 7:35:35 - INFO --> CC:  
+2013-11-06 7:35:35 - INFO --> BCC:  
+2013-11-06 7:35:35 - INFO --> Subject: Swap-Blog SQL Error 
+2013-11-06 7:35:35 - INFO --> Body: <h2>SQL Error</h2> SELECT user_id 
+             FROM users
+             WHERE email = che Unknown column 'che' in 'where clause'<h2>Query History</h2>0 = SELECT user_id 
+             FROM users
+             WHERE email = che<br><h2>SERVER</h2><pre>Array
+(
+    [REDIRECT_STATUS] => 200
+    [HTTP_H 
+2013-11-06 7:35:40 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 11:58:15 - INFO --> -------------------------- 
+2013-11-06 11:58:15 - INFO --> Controller/Method: users/p_login 
+2013-11-06 11:58:15 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 11:58:15 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 11:58:15 - INFO --> CC:  
+2013-11-06 11:58:15 - INFO --> BCC:  
+2013-11-06 11:58:15 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 11:58:15 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [email] => c 
+2013-11-06 11:58:25 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 11:59:33 - INFO --> -------------------------- 
+2013-11-06 11:59:33 - INFO --> Controller/Method: users/p_login 
+2013-11-06 11:59:33 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 11:59:33 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 11:59:33 - INFO --> CC:  
+2013-11-06 11:59:33 - INFO --> BCC:  
+2013-11-06 11:59:33 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 11:59:33 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [email] => c 
+2013-11-06 11:59:43 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 12:02:58 - INFO --> -------------------------- 
+2013-11-06 12:02:58 - INFO --> Controller/Method: users/p_login 
+2013-11-06 12:02:58 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 12:02:58 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 12:02:58 - INFO --> CC:  
+2013-11-06 12:02:58 - INFO --> BCC:  
+2013-11-06 12:02:58 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 12:02:58 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [email] => che@che.com
+    
+2013-11-06 12:03:08 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:04:45 - INFO --> -------------------------- 
+2013-11-06 13:04:45 - INFO --> Controller/Method: users/p_login 
+2013-11-06 13:04:45 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:04:45 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:04:45 - INFO --> CC:  
+2013-11-06 13:04:45 - INFO --> BCC:  
+2013-11-06 13:04:45 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:04:45 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [password] => 2f58d9cbd6c8 
+2013-11-06 13:04:55 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:04:55 - INFO --> -------------------------- 
+2013-11-06 13:04:55 - INFO --> Controller/Method: users/p_login 
+2013-11-06 13:04:55 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:04:55 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:04:55 - INFO --> CC:  
+2013-11-06 13:04:55 - INFO --> BCC:  
+2013-11-06 13:04:55 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:04:55 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [password] => 2f58d9cbd6c8 
+2013-11-06 13:08:42 - INFO --> -------------------------- 
+2013-11-06 13:08:42 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:08:42 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:08:42 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:08:42 - INFO --> CC:  
+2013-11-06 13:08:42 - INFO --> BCC:  
+2013-11-06 13:08:42 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:08:42 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [firstname] => syoum
+     
+2013-11-06 13:08:52 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:13:12 - INFO --> -------------------------- 
+2013-11-06 13:13:12 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:13:12 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:13:12 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:13:12 - INFO --> CC:  
+2013-11-06 13:13:12 - INFO --> BCC:  
+2013-11-06 13:13:12 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:13:12 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [created] => 1383761592
+  
+2013-11-06 13:13:22 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:13:55 - INFO --> -------------------------- 
+2013-11-06 13:13:55 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:13:55 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:13:55 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:13:55 - INFO --> CC:  
+2013-11-06 13:13:55 - INFO --> BCC:  
+2013-11-06 13:13:55 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:13:55 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [created] => 1383761635
+  
+2013-11-06 13:14:05 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:16:25 - INFO --> -------------------------- 
+2013-11-06 13:16:25 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:16:25 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:16:25 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:16:25 - INFO --> CC:  
+2013-11-06 13:16:25 - INFO --> BCC:  
+2013-11-06 13:16:25 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:16:25 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [created] = 
+2013-11-06 13:16:35 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:17:16 - INFO --> -------------------------- 
+2013-11-06 13:17:16 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:17:16 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:17:16 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:17:16 - INFO --> CC:  
+2013-11-06 13:17:16 - INFO --> BCC:  
+2013-11-06 13:17:16 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:17:16 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [firstname] 
+2013-11-06 13:17:26 - INFO --> FAILED TO SEND EMAIL 
